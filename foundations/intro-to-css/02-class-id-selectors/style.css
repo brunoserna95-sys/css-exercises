@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.same-class{
+    background-color: #ff000080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#ourfirstid{
+    color: #00f;
+    font-size: 36px;
+}
+.another-class{
+background-color: #ff000080;
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#oursecondid{
+    background-color: #0f0;
+    font-size: 24px;
+    font-style: bold;
+}
