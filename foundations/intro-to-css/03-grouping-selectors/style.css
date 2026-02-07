@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.myfirst{
+    background-color: black;
+    color: white;
+    font-size: 28px; 
+    font-style: Heveltica , Times New Roman, san-serif;
+
+
+}
+.mysecond{
+    background-color: yellow;
+    color: black;
+    font-size: 28px;
+    font-style: Heveltica , Times New Roman, san-serif;
+}
